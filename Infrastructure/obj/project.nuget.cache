@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "McfOQNx3cqY=",
+  "success": true,
+  "projectFilePath": "/Users/are/Documents/GitHub/comeback-dotnet/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/are/.nuget/packages/microsoft.entityframeworkcore/10.0.9/microsoft.entityframeworkcore.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.9/microsoft.entityframeworkcore.abstractions.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.9/microsoft.entityframeworkcore.analyzers.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.9/microsoft.extensions.caching.abstractions.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.caching.memory/10.0.9/microsoft.extensions.caching.memory.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.9/microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.9/microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.logging/10.0.9/microsoft.extensions.logging.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.9/microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.options/10.0.9/microsoft.extensions.options.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/microsoft.extensions.primitives/10.0.9/microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "/Users/are/.nuget/packages/pipelines.sockets.unofficial/2.2.16/pipelines.sockets.unofficial.2.2.16.nupkg.sha512",
+    "/Users/are/.nuget/packages/stackexchange.redis/2.13.17/stackexchange.redis.2.13.17.nupkg.sha512",
+    "/Users/are/.nuget/packages/system.io.hashing/10.0.2/system.io.hashing.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
